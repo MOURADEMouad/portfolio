@@ -27,7 +27,7 @@ const Footer = () => {
             transition={{ duration: 0.2, ease: "easeOut" }}
           >
             <a
-              href="/docs/MOURADE_MOUAD_CV.pdf"
+              href="/media/MOURADE_MOUAD_CV.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
