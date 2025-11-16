@@ -292,4 +292,6 @@ export const skills = [
   "Bootstrap",
   "CSS",
   "JavaScript",
+  "Node.js",
+  "Express.js",
 ];
